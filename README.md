@@ -5,6 +5,9 @@ Sample of [next-ssr](https://www.npmjs.com/package/next-ssr)
 - repository  
   https://github.com/SoraKumo001/next-ssr-pokemon
 
+- URLs running on Vercel  
+  https://next-ssr-pokemon.vercel.app/1
+
 # Example
 
 - src/layout/Layout.tsx
